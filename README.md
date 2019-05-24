@@ -9,4 +9,5 @@ https://storage.googleapis.com/openimages/web/index.html
 36,464,560 image-level labels on 19,959 categories<br>
 391,073 relationship annotations of 329 relationships<br>
 Extension - 478,000 crowdsourced images with 6,000+ categories</p>
-[Download](https://storage.googleapis.com/openimages/web/download.html)
+
+[Download](https://storage.googleapis.com/openimages/web/download.html) 
